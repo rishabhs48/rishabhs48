@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<img align="right"  src="https://www.careerguide.com/career/online-courses/data-science-courses/top-9-career-options-in-data-analytics" alt="data GIF" width="100%">
+<img align="right"  src="https://github.com/rishabhs48/rishabhs48/blob/rishabhs48-patch-1/data-git.gif" alt="data GIF" width="350">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhs48&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhs48" /> </p>
 
