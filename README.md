@@ -1,7 +1,8 @@
+![logo](https://github.com/rishabhs48/rishabhs48/blob/rishabhs48-patch-1/Blue%20and%20White%20Modern%20Geometric%20Banner.png)
 <h1 align="center">Hi 👋, I'm Rishabh Sharma</h1>
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<img align="right"  src="https://github.com/rishabhs48/rishabhs48/blob/rishabhs48-patch-1/data-git.gif" alt="data GIF" width="350">
+<img align="right"  src="https://github.com/rishabhs48/rishabhs48/blob/rishabhs48-patch-1/data-git.gif" alt="data GIF" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhs48&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhs48" /> </p>
 
